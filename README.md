@@ -24,7 +24,7 @@ Data Flow:
 
 Python → PostgreSQL → SQL Views & Modeling → Power BI Dashboard → Word Project Report → Presentation Slides  
 
-![Project Architecture](Project_Architecture.png)
+![Project Architecture](https://github.com/islam2000-rabi/Indian-Pharmacy-Product-Intelligence/blob/main/Project%20Architecture.png)
 
 ---
 

@@ -2,8 +2,8 @@
 
 ## Project Summary
 
-In this project, I analyzed Indian medicine master data using PostgreSQL and SQL to understand market trends in the pharmaceutical sector.  
-The goal was to identify manufacturer dominance, discontinued medicine risks, pricing patterns, and therapeutic substitution opportunities.  
+In this project, I analyzed Indian medicine master data using PostgreSQL to understand market trends in the pharmaceutical sector.  
+The goal was to identify manufacturer dominance, discontinued medicine risks, pricing patterns and therapeutic substitution opportunities.  
 Finally, I built an interactive Power BI dashboard to visualize key insights for pharmacy inventory and procurement decisions.
 
 ---

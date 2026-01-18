@@ -22,9 +22,7 @@ Finally, I built an interactive Power BI dashboard to visualize key insights for
 
 Data Flow:
 
-Python → PostgreSQL → SQL Views & Modeling → Power BI Dashboard  
-                                       ↘ Word Project Report  
-                                       ↘ Presentation Slides  
+Python → PostgreSQL → SQL Views & Modeling → Power BI Dashboard → Word Project Report → Presentation Slides  
 
 ![Project Architecture](Project_Architecture.png)
 
@@ -35,16 +33,16 @@ Python → PostgreSQL → SQL Views & Modeling → Power BI Dashboard
 - Source: Indian Medicine Dataset  
 - Total records: ~246,000 medicines  
 - Main columns used:
-  •	id (medicine id)
-  •	name (medicine name)
-  •	price (medicine price)
-  •	is_discontinued 
-  •	manufacturer_name
-  •	type(allopathic)
-  •	pack_size_label
-  •	short_composition1
-  •	short_composition2
-  •	medicine_type (tablet or capsules etc)
+  - id (medicine id)
+  - name (medicine name)
+  - price (medicine price)
+  - is_discontinued 
+  - manufacturer_name
+  - type(allopathic)
+  - pack_size_label
+  - short_composition1
+  - short_composition2
+  - medicine_type (tablet or capsules etc)
 
 ---
 
@@ -77,7 +75,6 @@ All SQL scripts are included in the `Query Script.sql` file.
 The Power BI dashboard includes:
 
 - KPI Cards:
-  - Total Available Medicines  
   - Total Discontinued Medicines  
   - Average Medicine Price  
   - Discontinuation Rate  
@@ -102,8 +99,3 @@ The Power BI dashboard includes:
 - Many compositions have multiple substitute brands  
 - Some manufacturers show higher discontinuation risk  
 - Significant pricing differences exist among manufacturers
-
-
-
-
-

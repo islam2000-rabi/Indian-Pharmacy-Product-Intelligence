@@ -1,4 +1,4 @@
-# Indian Pharmacy Product Intelligence – SQL & Power BI Project
+# Indian Pharmacy Product Intelligence – Python, SQL & Power BI Project
 
 ## Project Summary
 
@@ -19,10 +19,6 @@ Finally, I built an interactive Power BI dashboard to visualize key insights for
 ---
 
 ## Project Architecture
-
-Data Flow:
-
-Python → PostgreSQL → SQL Views & Modeling → Power BI Dashboard → Word Project Report → Presentation Slides  
 
 ![Project Architecture](https://github.com/islam2000-rabi/Indian-Pharmacy-Product-Intelligence/blob/main/Project%20Architecture.png)
 
@@ -49,8 +45,7 @@ Python → PostgreSQL → SQL Views & Modeling → Power BI Dashboard → Word P
 ## Tools & Technologies Used
 
 - Python – initial data cleaning  
-- PostgreSQL – database storage and SQL analysis  
-- SQL – data modeling and analytical queries  
+- PostgreSQL – database storage and SQL analysis   
 - Power BI – interactive dashboard  
 - MS Word – project report documentation
 
